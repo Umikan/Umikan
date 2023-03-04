@@ -1,4 +1,11 @@
-### Hi there 👋
+## 🍊 Umikan
+
+I'm always together with Python libraries: FastAPI, Pandas and Pytorch. 
+
+[![Top Langs](https://github-readme-stats-umikan.vercel.app/api/top-langs/?username=Umikan&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+#### ⚡Recent Releases
+[![Readme Card](https://github-readme-stats-umikan.vercel.app/api/pin/?username=Umikan&repo=neurocircuit)](https://github.com/Umikan/neurocircuit)
 
 <!--
 **Umikan/Umikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
