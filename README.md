@@ -1,6 +1,6 @@
 ## 🍊 Umikan
 
-I'm always together with Python libraries: FastAPI, Pandas and Pytorch. 
+I'm always together with handy Python libraries: FastAPI, Pandas and Pytorch. 
 
 [![Top Langs](https://github-readme-stats-umikan.vercel.app/api/top-langs/?username=Umikan&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
